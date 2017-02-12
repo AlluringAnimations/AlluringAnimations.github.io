@@ -1,0 +1,39 @@
+#introduction{
+    padding-top:200px;
+    padding-bottom:150px;
+    border-bottom: 1px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: black;
+}
+#aboutMe{
+    padding-top:60px;
+    padding-bottom:200px;
+    border-bottom: 1px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: black;
+    background-color: dodgerblue;
+
+}
+#portfolio{
+    padding-top:60px;
+    padding-bottom:50px;
+    border-bottom: 1px solid black;
+    color: white;
+    background-color: black;
+}
+#contactMe{
+    background-color: dodgerblue;
+    padding-bottom: 10px;
+    padding-top:10px;
+
+}
+a{
+    color: red;
+}
+a:hover{
+
+    color: darkred;
+}
