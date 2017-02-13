@@ -5,7 +5,7 @@
     padding-left: 30px;
     padding-right: 30px;
     color: white;
-    background-color: black;
+    background-color: dodgerblue;
 }
 #aboutMe{
     padding-top:60px;
@@ -14,18 +14,18 @@
     padding-left: 30px;
     padding-right: 30px;
     color: black;
-    background-color: dodgerblue;
+    background-color: black;
 
 }
 #portfolio{
     padding-top:60px;
     padding-bottom:50px;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid dodgerblue;
     color: white;
     background-color: black;
 }
 #contactMe{
-    background-color: dodgerblue;
+    background-color: black;
     padding-bottom: 10px;
     padding-top:10px;
 
